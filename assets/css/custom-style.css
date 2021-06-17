@@ -116,6 +116,7 @@ section {
   flex: 30%;
   padding: 20px;
   padding-bottom: 0px;
+  max-width: 400px;
 }
 
 .team .member {
